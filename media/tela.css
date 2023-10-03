@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+body{
+    background-color: #72503d;
+}
+.cabeça {
+    background-color: #af4508;
+    padding: 70px;
+
+}
+
+.cabeça > h1 {
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+header {
+    background-color: brown;
+    
+}
+header > p {
+    display: inline-block;
+    padding-right: 10px;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(66, 18, 18);
+    color: white;
+    font-size: larger;
+
+}
+
+main > h1 {
+    text-align: center;
+}
+
+main {
+    width: 800px;
+    margin: auto;
+   
+    background-color: #af4508;
+}
+
